@@ -1,0 +1,13 @@
++Added a timer
+
+todo list:
+-add radio buttons that change the A E S T H E T I C S
+-add more to the level mechanic. so the balls actually get faster with every level
+-fix the fact that the timer doesnt actually do something
+
+Reminder:
+game needs
+-radio buttons that change the A E S T H E T I C S
+
+known bugs:
+-game doesnt actually reset when the timer reaches zero. it just sorta crashes

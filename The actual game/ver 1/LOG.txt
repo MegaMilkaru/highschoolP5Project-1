@@ -1,0 +1,6 @@
++added UI Ribon
++added Button
+
+todo list:
+-change button text from "Start" to "GLHF"
+-change ribbon opacity

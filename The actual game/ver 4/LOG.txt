@@ -1,0 +1,18 @@
++added the arena
++"fixed" the hit detection
++fixed the game starting without needing to press the start button
+
+todo list:
+-add the timer
+-add radio buttons that change the A E S T H E T I C S
+-add more to the level mechanic. so the balls actually get faster with every level
+
+Reminder:
+game needs
+-radio buttons that change the A E S T H E T I C S
+
+
+CURRENT BUGS:
+even if a hit is registered. the function still marks the other targets as "missed" <-----(fixed by simply cutting it from the game entirely)
+balls can spawn "hugging" the edge <----(fixed by making the spawning zone smaller)
+game starts when the mouse clicks anywhere on the screen, rendering the actual game start button useless <----(FIXED!!! long story, took like 30 mins, not even kidding)

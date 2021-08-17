@@ -1,0 +1,29 @@
+<html>
+	<script src="target.js"></script>
+	<script src="gameUI.js"></script>
+	<script src="score.js"></script>
+	<script src="gameRules.js"></script>
+	<script src="..\..\P5\P5.min.js"></script>
+	<!-- dom addon -->
+	<script src="..\..\P5\addons\p5.dom.min.js"></script>
+	<!-- p5 collision addon-->
+	<script src="..\..\P5\addons\p5.collide2d-master\p5.collide2d.min.js"></script>
+	
+	
+	<!-- the main index-->
+	<script>
+	function setup() {
+		createCanvas(displayWidth, displayHeight);
+	}
+	function draw(){
+		background(0, 0, 0);
+		displayUI();
+		runGame();
+	}
+	function mousePressed(){
+		//james
+		startButtonClicked(); //gameUI.js
+		hitDetect();
+	}
+	</script>
+</html>

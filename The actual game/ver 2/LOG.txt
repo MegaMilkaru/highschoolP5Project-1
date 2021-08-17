@@ -1,0 +1,8 @@
++added a mechanic where the "start" text changes to "GLHF" when pressed
++added colour to the ribbon
++changed the ribbon opacity
++added strokeWeight to everything so it looks nice n stuff
+
+todo list:
+-add the arena
+-add the targets
